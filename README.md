@@ -1,2 +1,3 @@
 # Backlog
-The overall backlog &amp; idea prioritization for Cotacol Hunting
+
+Intention to list ideas and enable discussion on them, in the different issues
