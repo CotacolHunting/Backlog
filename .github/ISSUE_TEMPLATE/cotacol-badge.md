@@ -7,8 +7,11 @@ assignees: ''
 
 ---
 
-# Badge name
+- **Badge name**: 
+- **Public description**: description that should be visible on the web site
+- **Description**: Please describe thoroughly what is needed to conquer the badge
+- **Idea for badge image (logo)**: Describe how the badge should look like
 
-- __Public description__: description that should be visible on the web site
-- __Description__: Please describe thoroughly what is needed to conquer the badge
-- __Idea for badge image (logo)__: Describe how the badge should look like
+## Open questions you might have for the reviewers?
+
+- Question 1
